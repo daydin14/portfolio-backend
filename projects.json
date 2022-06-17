@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Dave's Drink Generator",
+        "live": "https://davesdrinkgen.netlify.app/",
+        "git": "https://github.com/daydin14/cocktail-recipe",
+        "image": "proj_1-img"
+    },
+    {
+        "name": "Optio Blue",
+        "live": "https://optio-blue.herokuapp.com/",
+        "git": "https://github.com/daydin14/optioBlue",
+        "image": "proj_2-img"
+    }
+]
