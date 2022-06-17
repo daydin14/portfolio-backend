@@ -9,6 +9,8 @@ const about = require("./about.json");
 const app = express();
 
 // Cors Middleware
+app.use(cors());
+
 // Home route to test app
 // /projects route to retreive proj info
 // /about route to retreive about me
