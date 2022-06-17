@@ -22,4 +22,8 @@ app.get("/projects", (req,res) => {
 });
 
 // /about route to retreive about me
+app.get("/about", (req,res) => {
+    res.json(about);
+});
+
 // setup server listener
