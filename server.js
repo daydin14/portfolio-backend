@@ -6,6 +6,8 @@ const projects = require("./projects.json");
 const about = require("./about.json");
 
 // Create App Object
+const app = express();
+
 // Cors Middleware
 // Home route to test app
 // /projects route to retreive proj info
