@@ -12,6 +12,10 @@ const app = express();
 app.use(cors());
 
 // Home route to test app
+app.get("/", (req,res) => {
+    res.send("Hello World");
+});
+
 // /projects route to retreive proj info
 // /about route to retreive about me
 // setup server listener
