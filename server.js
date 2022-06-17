@@ -2,6 +2,9 @@
 const express = require("express");
 const cors = require("cors")
 
+const projects = require("./projects.json");
+const about = require("./about.json");
+
 // Create App Object
 // Cors Middleware
 // Home route to test app
