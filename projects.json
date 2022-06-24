@@ -10,5 +10,11 @@
         "live": "https://optio-blue.herokuapp.com/",
         "git": "https://github.com/daydin14/optioBlue",
         "image": "proj_2-img"
+    },
+    {
+        "name": "BuckT",
+        "live": "https://buck-it.netlify.app/",
+        "git": "https://github.com/daydin14/buckT-frontend",
+        "image": "proj_3-img"
     }
 ]
